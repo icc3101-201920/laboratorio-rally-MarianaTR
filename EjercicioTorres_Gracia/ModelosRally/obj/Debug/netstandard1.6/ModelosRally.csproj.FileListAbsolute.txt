@@ -1,0 +1,8 @@
+C:\Users\torre\Desktop\Ejercicio\ModelosRally\bin\Debug\netstandard1.6\ModelosRally.deps.json
+C:\Users\torre\Desktop\Ejercicio\ModelosRally\bin\Debug\netstandard1.6\ModelosRally.dll
+C:\Users\torre\Desktop\Ejercicio\ModelosRally\bin\Debug\netstandard1.6\ModelosRally.pdb
+C:\Users\torre\Desktop\Ejercicio\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.csproj.CoreCompileInputs.cache
+C:\Users\torre\Desktop\Ejercicio\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.AssemblyInfoInputs.cache
+C:\Users\torre\Desktop\Ejercicio\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.AssemblyInfo.cs
+C:\Users\torre\Desktop\Ejercicio\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.dll
+C:\Users\torre\Desktop\Ejercicio\ModelosRally\obj\Debug\netstandard1.6\ModelosRally.pdb
